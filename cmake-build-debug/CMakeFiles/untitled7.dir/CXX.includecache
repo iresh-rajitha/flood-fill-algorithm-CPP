@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Backup/Iresh/Flood Fill/Maze.cpp
+Maze.h
+E:/Backup/Iresh/Flood Fill/Maze.h
+
+E:/Backup/Iresh/Flood Fill/Maze.h
+iostream
+-
+
+E:/Backup/Iresh/Flood Fill/main.cpp
+iostream
+-
+Maze.h
+E:/Backup/Iresh/Flood Fill/Maze.h
+
